@@ -7,5 +7,24 @@
   "mainAppPageId" : "ec69a9ea-e43b-4a79-ace3-338572f13a53",
   "preferredDomain" : "none",
   "selfRegistrationRouteId" : null,
+  "trustedSitesForScript" : [ {
+    "id" : "ccc4849b-131d-49a2-9088-d9ce1082204f",
+    "isActive" : true,
+    "trustedSiteName" : "Bootstrap",
+    "trustedSiteUrl" : "https://maxcdn.bootstrapcdn.com",
+    "type" : "trustedSitesForScripts"
+  }, {
+    "id" : "569f6c46-70d1-4ab3-99a6-ceb75f71041b",
+    "isActive" : true,
+    "trustedSiteName" : "Google APIs",
+    "trustedSiteUrl" : "https://fonts.googleapis.com",
+    "type" : "trustedSitesForScripts"
+  }, {
+    "id" : "91c46a10-ee1f-48fa-b52b-32570e38fbb2",
+    "isActive" : true,
+    "trustedSiteName" : "FrankCaron.com",
+    "trustedSiteUrl" : "https://www.frankcaron.com",
+    "type" : "trustedSitesForScripts"
+  } ],
   "type" : "site"
 }

@@ -11,14 +11,7 @@
     "components" : [ {
       "componentAttributes" : { },
       "componentName" : "c:homepageMast",
-      "id" : "c3376083-5b1a-49c5-a123-ea20aa15601e",
-      "renderPriority" : "NEUTRAL",
-      "renditionMap" : { },
-      "type" : "component"
-    }, {
-      "componentAttributes" : { },
-      "componentName" : "community_byo:home",
-      "id" : "8bfa6a6b-ee68-4332-b220-677a2d96db8a",
+      "id" : "36c6dffb-8e50-4c28-bd37-a64a3967273b",
       "renderPriority" : "NEUTRAL",
       "renditionMap" : { },
       "type" : "component"
