@@ -1,0 +1,47 @@
+{
+  "appPageId" : "ec69a9ea-e43b-4a79-ace3-338572f13a53",
+  "componentName" : "community_layout:sldsOneColLayout",
+  "id" : "ddef07b2-c6e7-40fc-a764-8da66bf25d85",
+  "label" : "Register",
+  "regions" : [ {
+    "id" : "cd12f7e9-f34c-4ec9-961a-bc6035d93cc3",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : { },
+      "componentName" : "community_login:communityLogo",
+      "id" : "24863882-0a2b-439e-8b1d-19c54d074d3a",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "cancelLinkLabel" : "Already have an account?",
+        "confirmPasswordLabel" : "Confirm Password",
+        "emailLabel" : "Email",
+        "firstnameLabel" : "First Name",
+        "includePasswordField" : true,
+        "lastnameLabel" : "Last Name",
+        "passwordLabel" : "Create Password",
+        "regConfirmUrl" : "./CheckPasswordResetEmail",
+        "submitButtonLabel" : "Sign Up"
+      },
+      "componentName" : "community_login:selfRegister",
+      "id" : "6e22ce60-3edf-4c64-a194-b0f70a7f3f46",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "bdd50fd9-e6b7-44b6-90ac-5f442ceee1c2",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "c5c6b6b0-be5c-4c3c-a346-0b9c5febf56e",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "self-register"
+}

@@ -1,0 +1,20 @@
+{
+  "definitionName" : "talon-template-byo:branding",
+  "id" : "79ad7b29-e7eb-4fb1-a127-eac28d092d56",
+  "label" : "talon-template-byo:branding",
+  "type" : "brandingSet",
+  "values" : {
+    "actionColor" : "#2574A9",
+    "borderColor" : "#D4D4D4",
+    "cardBackgroundColor" : "#fff",
+    "detailTextColor" : "#696969",
+    "errorTextColor" : "#ff9e9e",
+    "headerImage" : "/assets/img/desert.svg",
+    "linkColor" : "#2574A9",
+    "overlayTextColor" : "#FFFFFF",
+    "primaryFont" : "Salesforce Sans",
+    "talonLogo" : "",
+    "textCase" : "uppercase",
+    "textColor" : "#333"
+  }
+}

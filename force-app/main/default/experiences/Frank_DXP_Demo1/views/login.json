@@ -1,0 +1,65 @@
+{
+  "appPageId" : "ec69a9ea-e43b-4a79-ace3-338572f13a53",
+  "componentName" : "community_layout:sldsOneColLayout",
+  "id" : "b9c621b6-3c8e-4047-862c-023b23776edd",
+  "label" : "Login",
+  "regions" : [ {
+    "id" : "a496b4da-257c-49d9-b5d2-2157c7cbe54f",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : { },
+      "componentName" : "community_login:communityLogo",
+      "id" : "765b9ccd-55e1-4f62-9b46-99479aed5510",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "forgotPasswordLabel" : "Forgot your password?",
+        "forgotPasswordUrl" : "/ForgotPassword",
+        "loginButtonLabel" : "Log In",
+        "passwordLabel" : "Password",
+        "selfRegisterLabel" : "Not a member?",
+        "selfRegisterUrl" : "/SelfRegister",
+        "startUrl" : "",
+        "usernameLabel" : "Username"
+      },
+      "componentName" : "community_login:loginForm",
+      "id" : "9254b533-1a79-4eed-b4d2-bff37ea69a98",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "showHeader" : false,
+        "socialLoginHeader" : "Or log in using:"
+      },
+      "componentName" : "community_login:socialLogin",
+      "id" : "143eda35-b891-40a9-9497-c76f78d79409",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "employeeLoginLinkLabel" : "Are you an employee? Log in"
+      },
+      "componentName" : "community_login:employeeLoginLink",
+      "id" : "5e41081b-c511-4e23-bafb-d1c658fd8b1f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5b2bd911-84ab-48d2-ab93-d930b2c4a265",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "b93ae97d-191e-4763-a3e6-f20893e60ecc",
+    "regionName" : "footer",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "login-home"
+}
