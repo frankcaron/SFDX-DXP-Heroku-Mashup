@@ -21,7 +21,7 @@ In order to use this app, you'll need to ensure that you have...
 
 You'll need to create a dev org and set up My Domain, Commnuities, and enable both the ExperienceBundle metadata and LWC-only Template in `Community Settings` from the Setup menu.
 
-# Deploy
+## Deploy
 
 Use SFDX, once connected to your Dev org's Dev Hub to deploy the source. The packaged LWC is built entirely with vanilla JS, HTML, and CSS powered by the static resources included in the repo.
 
